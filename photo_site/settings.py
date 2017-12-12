@@ -25,7 +25,7 @@ SECRET_KEY = '^gflj3s4j6!kwj27)=d@5p%0o7+y+f2#o_w=et$%g_9f6++@nn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'dimitsia.pythonanywhere.com']
 
 
 # Application definition
